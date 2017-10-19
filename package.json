@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "css-loader": "^0.28.7"
+  }
+}
